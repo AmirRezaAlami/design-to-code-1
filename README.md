@@ -12,6 +12,18 @@ Easy-to-follow structure, and a few extra functionalities added for fun.
 - Navigation -> Navigator + MaterialPageRoute
 
 
+## 🎬 Demo
+<p align="center">
+  <img src="demo/Task_Management_App_Demo.gif" width="600"/>
+</p>
+
+
+## 🎨 Design Reference
+<p align="center">
+  <img src="assets/design/design-reference.png" width="600"/>
+</p>
+
+
 ### Installation
 ```bash
 git clone https://github.com/AmirRezaAlami/design-to-code-1.git
