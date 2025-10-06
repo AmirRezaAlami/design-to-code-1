@@ -14,13 +14,13 @@ Easy-to-follow structure, and a few extra functionalities added for fun.
 
 ## 🎬 Demo
 <p align="center">
-  <img src="demo/Task_Management_App_Demo.gif" width="600"/>
+  <img src="demo/Task_Management_App_Demo.gif" width="500"/>
 </p>
 
 
 ## 🎨 Design Reference
 <p align="center">
-  <img src="assets/design/design-reference.png" width="600"/>
+  <img src="assets/design/design-reference.png" width="500"/>
 </p>
 
 
