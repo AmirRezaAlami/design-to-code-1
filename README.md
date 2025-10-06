@@ -1,8 +1,26 @@
-# task_management_app_ui
+# 📝 Task Management App UI
 
-A new Flutter project.
+The first project from **Design-To-Code** series.
+A stunning **3-page UI design**, implemented as a Mobile Application with **Flutter**.
+Easy-to-follow structure, and a few extra functionalities added for fun.
 
-## Getting Started
+
+## 🔎 Project Details
+- architecture -> **MVVM** (minimal setup)
+- State Management -> **Provider**
+- Dependency Injection -> ProxyProvider
+- Navigation -> Navigator + MaterialPageRoute
+
+
+### Installation
+```bash
+git clone https://github.com/AmirRezaAlami/design-to-code-1.git
+cd task_management_app_ui
+flutter pub get
+flutter run
+```
+
+### Getting Started
 
 This project is a starting point for a Flutter application.
 
